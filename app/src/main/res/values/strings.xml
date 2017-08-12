@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Udacity-Project-4-MusicalStructure</string>
+
+    <string name="for_you">For You</string>
+
+    <string name="your_library">Your Library</string>
+
+    <string name="playlists">Playlist</string>
+
+    <string name="payment">Payment</string>
+
+    <string name="description">Description</string>
+
+    <string name="radio">Radio</string>
+
+    <string name="title">Title</string>
+
+</resources>
